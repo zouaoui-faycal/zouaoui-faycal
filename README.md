@@ -11,7 +11,7 @@ Lille, France · disponible en freelance
 
 ## En quelques mots
 
-J'industrialise des plateformes cloud à grande échelle depuis 2015. Tech Lead
+J'industrialise des plateformes cloud à grande échelle depuis 2015. 
 DevOps chez **Dailymotion** aujourd'hui, après des missions chez **TotalEnergies
 (Waykonect)**, **Nexity (CCOE)**, **SNCF Connect & Tech**, **Société Générale**.
 
